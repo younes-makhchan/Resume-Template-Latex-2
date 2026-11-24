@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-boss": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote@0.1.29", "http://127.0.0.1:8000/mcp"]
+    }
+  }
+}

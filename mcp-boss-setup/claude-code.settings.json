@@ -1,0 +1,6 @@
+{
+  "permissions": {
+    "deny": ["mcp__mcp-boss__send_greeting"],
+    "ask": ["mcp__mcp-boss__login_full_auto", "mcp__mcp-boss__login_start_interactive"]
+  }
+}
